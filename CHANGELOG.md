@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.7.0](https://github.com/super-linter/super-linter/compare/v6.6.0...v6.7.0) (2024-06-07)
+
+
+### 🚀 Features
+
+* checkov scans for helm charts ([#5631](https://github.com/super-linter/super-linter/issues/5631)) ([5b5d2f7](https://github.com/super-linter/super-linter/commit/5b5d2f7ef0c308f904d2e30528e6dddad0a3498a))
+
 ## [6.6.0](https://github.com/super-linter/super-linter/compare/v6.5.1...v6.6.0) (2024-06-03)
 
 
